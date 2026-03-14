@@ -1,5 +1,5 @@
 import streamlit as st
-from user_authentication import authenticate 
+from user_authentication.user_authentication import authenticate
 
 st.title("Welcome to My App")
 
